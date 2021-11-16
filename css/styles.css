@@ -371,7 +371,6 @@ button {
   line-height: 2;
   letter-spacing: 0.06em;
   margin-top: 20px;
-  margin-left: 24px;
   color: var(--second-title-color);
 }
 .portfolio-about {
@@ -380,7 +379,6 @@ button {
   line-height: 1.87;
   letter-spacing: 0.03em;
   margin-top: 4px;
-  margin-left: 24px;
   color: var(--main-text-color);
 }
 .aside-button {
@@ -402,9 +400,12 @@ button {
   margin-left: 30px;
   margin-bottom: 30px;
   background: #ffffff;
-  border: 1px solid #eeeeee;
-  box-sizing: border-box;
 }
 .header-portfolio {
   border-bottom: 1px solid #ececec;
+}
+.container-about {
+  padding-left: 24px;
+  border: 1px solid #eeeeee;
+  box-sizing: border-box;
 }
